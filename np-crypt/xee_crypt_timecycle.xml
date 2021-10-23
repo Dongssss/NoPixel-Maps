@@ -1,0 +1,33 @@
+<timecycle_modifier_data version="1.000000">
+	<modifier name="xee_crypt_timecycle" numMods="29" userFlags="0">
+		<light_amb_down_wrap>0.400 0.000</light_amb_down_wrap>
+    <light_natural_push>0.010 0.000</light_natural_push>
+    <light_artificial_int_down_col_r>0.875 1.000</light_artificial_int_down_col_r>
+    <light_artificial_int_down_col_g>0.910 1.000</light_artificial_int_down_col_g>
+    <light_artificial_int_down_col_b>0.878 1.000</light_artificial_int_down_col_b>
+    <light_artificial_int_down_intensity>0.100 0.000</light_artificial_int_down_intensity>
+    <light_artificial_int_up_col_r>0.933 1.000</light_artificial_int_up_col_r>
+    <light_artificial_int_up_col_g>0.757 1.000</light_artificial_int_up_col_g>
+    <light_artificial_int_up_col_b>0.475 1.000</light_artificial_int_up_col_b>
+    <light_artificial_int_up_intensity>0.100 0.000</light_artificial_int_up_intensity>
+    <ped_light_col_r>1.000 1.000</ped_light_col_r>
+    <ped_light_col_g>0.867 1.000</ped_light_col_g>
+    <ped_light_col_b>0.498 1.000</ped_light_col_b>
+    <ped_light_mult>0.050 1.000</ped_light_mult>
+    <light_amb_occ_mult>1.000 0.000</light_amb_occ_mult>
+    <light_amb_occ_mult_veh>1.000 0.000</light_amb_occ_mult_veh>
+    <light_amb_volumes_in_diffuse>0.000 0.000</light_amb_volumes_in_diffuse>
+    <light_vehicle_second_spec_override>1.000 0.000</light_vehicle_second_spec_override>
+    <postfx_bright_pass_thresh_width>0.750 0.000</postfx_bright_pass_thresh_width>
+    <postfx_bright_pass_thresh>0.750 0.000</postfx_bright_pass_thresh>
+    <postfx_intensity_bloom>0.500 0.000</postfx_intensity_bloom>
+    <fog_hdr>0.000 0.950</fog_hdr>
+    <fog_haze_hdr>0.000 0.960</fog_haze_hdr>
+    <fogray_nearfade>0.500 0.000</fogray_nearfade>
+    <far_clip>0.000 400.000</far_clip>
+    <particle_light_intensity_mult>0.000 1.000</particle_light_intensity_mult>
+    <natural_ambient_multiplier>0.400 0.000</natural_ambient_multiplier>
+    <artificial_int_ambient_multiplier>0.000 0.000</artificial_int_ambient_multiplier>
+    <entity_reject>1000.000 0.000</entity_reject>
+	</modifier>
+</timecycle_modifier_data>
